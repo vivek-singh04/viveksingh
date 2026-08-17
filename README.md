@@ -18,7 +18,8 @@ Linux | AWS | Bash | Python | QRadar | Cortex XDR
 [![GitHub]https://github.com/vivek-singh04/viveksingh/
 
 
-## Skills
+## Certificates
 
-![AWS] https://www.credly.com/badges/af60eab5-551e-4abb-a378-bc9dfc3ad292/linked_in?t=t4vxgo
-![RedHat] https://www.credly.com/badges/8ae4d5f3-fc11-47bf-bc46-b9b10af9dacc/linked_in?t=sljv04
+AWS Certified Solutions Architect – Associate https://www.credly.com/badges/af60eab5-551e-4abb-a378-bc9dfc3ad292/linked_in?t=t4vxgo
+
+RHCSA Certified  https://www.credly.com/badges/8ae4d5f3-fc11-47bf-bc46-b9b10af9dacc/linked_in?t=sljv04
