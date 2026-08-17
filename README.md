@@ -1,4 +1,6 @@
 # Hi 👋, I'm Vivek Singh
+A highly motivated and experienced Client Technical L2 Support engineer at IBM specializing in QRadar, completed a Master of Science degree in Cybersecurity from the National College of Ireland, possesses
+Excellent technical knowledge and experience in the field of cybersecurity.
 
 ## Technical Support Engineer | RHCSA | AWS Certified
 
