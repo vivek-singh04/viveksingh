@@ -2,7 +2,7 @@
 A highly motivated and experienced Client Technical L2 Support engineer at IBM specializing in QRadar, completed a Master of Science degree in Cybersecurity from the National College of Ireland, possesses
 Excellent technical knowledge and experience in the field of cybersecurity.
 
-##👨‍💻 About Me
+## About Me
 
 -I have 3+ years of experience as a QRadar/SIEM 
 -Certified AWS Solutions Architect.
