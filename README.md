@@ -4,9 +4,12 @@ Excellent technical knowledge and experience in the field of cybersecurity.
 
 ## About Me
 
-#I have 3+ years of experience as a QRadar/SIEM 
-#Certified AWS Solutions Architect.
-#Certified RHCAS Engineer.
+- Highly motivated Secuirty engineer with 3.5+ years of QRadar/SIEM + Linux + AWS experience.
+- Master of Science (M.Sc.) in Cybersecurity from the National College of Ireland.
+- Master's degree in Computer Science.
+- Strong experience in Network Security, Threat Analysis, and Incident Response.
+- Experience with Linux, Windows, and Cloud Security.
+- Currently preparing for the CompTIA Security+ certification.
 
 ## Technical Support Engineer | RHCSA | AWS Certified
 
