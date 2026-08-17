@@ -4,9 +4,9 @@ Excellent technical knowledge and experience in the field of cybersecurity.
 
 ## About Me
 
--I have 3+ years of experience as a QRadar/SIEM 
--Certified AWS Solutions Architect.
--Certified RHCAS Engineer.
+#I have 3+ years of experience as a QRadar/SIEM 
+#Certified AWS Solutions Architect.
+#Certified RHCAS Engineer.
 
 ## Technical Support Engineer | RHCSA | AWS Certified
 
