@@ -2,6 +2,12 @@
 A highly motivated and experienced Client Technical L2 Support engineer at IBM specializing in QRadar, completed a Master of Science degree in Cybersecurity from the National College of Ireland, possesses
 Excellent technical knowledge and experience in the field of cybersecurity.
 
+##👨‍💻 About Me
+
+-I have 3+ years of experience as a QRadar/SIEM 
+-Certified AWS Solutions Architect.
+-Certified RHCAS Engineer.
+
 ## Technical Support Engineer | RHCSA | AWS Certified
 
 - 🔭 Working on Security & Cloud Technologies
@@ -13,7 +19,7 @@ Excellent technical knowledge and experience in the field of cybersecurity.
  
 Linux | AWS | Bash | Python | QRadar | Cortex XDR
 
-### Connect with me
+## Connect with me
 
 [![LinkedIn]https://www.linkedin.com/in/vivek-singh-11359695/
 
@@ -22,6 +28,6 @@ Linux | AWS | Bash | Python | QRadar | Cortex XDR
 
 ## Certificates
 
-AWS Certified Solutions Architect – Associate https://www.credly.com/badges/af60eab5-551e-4abb-a378-bc9dfc3ad292/linked_in?t=t4vxgo
+AWS Certified Solutions Arcitect – Associate https://www.credly.com/badges/af60eab5-551e-4abb-a378-bc9dfc3ad292/linked_in?t=t4vxgo
 
 RHCSA Certified  https://www.credly.com/badges/8ae4d5f3-fc11-47bf-bc46-b9b10af9dacc/linked_in?t=sljv04
